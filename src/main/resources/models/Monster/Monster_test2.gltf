@@ -1,0 +1,113 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5123,
+            "count" : 2652,
+            "max" : [
+                821
+            ],
+            "min" : [
+                0
+            ],
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 822,
+            "max" : [
+                7.313104152679443,
+                1.2804189920425415,
+                25.414934158325195
+            ],
+            "min" : [
+                -15.45071029663086,
+                -33.436153411865234,
+                -33.22121047973633
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 822,
+            "max" : [
+                0.9988707900047302,
+                0.99981689453125,
+                0.9998779296875
+            ],
+            "min" : [
+                -0.9988707900047302,
+                -0.999786376953125,
+                -0.9980162978172302
+            ],
+            "type" : "VEC3"
+        }
+    ],
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter",
+        "version" : "2.0"
+    },
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 5304,
+            "byteOffset" : 0,
+            "target" : 34963
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9864,
+            "byteOffset" : 5304,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9864,
+            "byteOffset" : 15168,
+            "target" : 34962
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 25032,
+            "uri" : "Monster_test2.bin"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "nodes[1]_monster",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2,
+                        "POSITION" : 1
+                    },
+                    "indices" : 0
+                }
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "nodes[1]_monster",
+            "rotation" : [
+                0.7071068286895752,
+                0.0,
+                0.0,
+                0.7071067094802856
+            ]
+        }
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
